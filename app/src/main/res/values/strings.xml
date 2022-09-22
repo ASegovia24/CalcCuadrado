@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalcCuadrado</string>
+    <string name="Titulo">Calcular cuadrado</string>
+    <string name="Contentedor">Numero entero para sacar su cuadrado</string>
+    <string name="calcularBoton">CALCULAR</string>
+    <string name="resultado">Resultado</string>
+</resources>
